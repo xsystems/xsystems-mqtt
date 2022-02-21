@@ -1,2 +1,2 @@
-pattern write %u
+pattern write %u/#
 pattern read #
